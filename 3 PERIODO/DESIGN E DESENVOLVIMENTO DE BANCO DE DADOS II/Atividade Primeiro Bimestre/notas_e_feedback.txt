@@ -1,0 +1,12 @@
+C1: 2/2pts 
+
+C2: 1,75/2pts 
+Distinct
+
+C3: 2/2pts
+
+C4: 2/2pts
+
+
+C5: 0/2pts  uma VIEW somente integrada nas consultas 2 e 4
+

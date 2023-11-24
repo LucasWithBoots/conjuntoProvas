@@ -1,0 +1,11 @@
+Bom dia pessoal!
+
+Como prova prática do B2, vocês deverão construir um aplicativo usando React Native que gere uma lista de 10 personagens do universo Star Wars. Para tal, vocês devem utilizar a API disponível em: https://swapi.dev/
+
+Basta criar uma tela que renderize a lista de personagens.
+
+Ao final do desenvolvimento da prova, subam o projeto para o Github e compartilhem aqui o link público para o mesmo.
+
+Bom trabalho a todos!
+
+Otávio
